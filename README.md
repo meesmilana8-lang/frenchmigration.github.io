@@ -1,8 +1,8 @@
 <div align="center">
 
-# <span style="font-size: 2.2em; font-weight: 600;">🇫🇷 French Migration Project</span>
+# 🇫🇷 French Migration Project
 
-### <span style="font-size: 1.3em; font-weight: 400;">Quantitative Analysis of Immigration in France (2010–2025)</span>
+### Quantitative Analysis of Immigration in France (2010–2025)
 
 **Milana Mees • Zaynab Rachae Djamil • Samet Kurt**
 
