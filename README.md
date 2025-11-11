@@ -1,9 +1,6 @@
 <div align="center">
 
-#  🇫🇷 French Migration Project 🇫🇷
-
-
-**Milana Mees • Zaynab Rachae Djamil • Samet Kurt**
+  **🇫🇷 French Migration Project 🇫🇷**
 
 </div>
 
