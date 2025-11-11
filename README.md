@@ -1,6 +1,6 @@
 <div align="center">
 
-  **🇫🇷 French Migration Project 🇫🇷**
+#  🇫🇷 French Migration Project 🇫🇷
 
 </div>
 
