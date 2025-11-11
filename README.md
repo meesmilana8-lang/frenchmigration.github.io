@@ -89,3 +89,6 @@ Its role included:
 The use of AI improved workflow efficiency while maintaining methodological rigour and human oversight.
 
 ---
+[📄 Download Quantitative Analysis Report](https://raw.githubusercontent.com/meesmilana8-lang/frenchmigration.github.io/main/assets/css/assets/Quantitative%20Analysis.pdf)
+
+
