@@ -1,10 +1,8 @@
 <div align="center">
 
-# 🇫🇷 French Migration Project
+# 🇫🇷 French Migration Project 🇫🇷
 
-### Quantitative Analysis of Immigration in France (2010–2025)
-
-**Milana Mees • Zaynab Rachae Djamil • Samet Kurt**
+** Milana Mees • Zaynab Rachae Djamil • Samet Kurt **
 
 </div>
 
