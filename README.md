@@ -2,7 +2,7 @@
 
 # 🇫🇷 French Migration Project 🇫🇷
 
-** Milana Mees • Zaynab Rachae Djamil • Samet Kurt **
+**Milana Mees • Zaynab Rachae Djamil • Samet Kurt**
 
 </div>
 
